@@ -63,7 +63,7 @@ I'm working on discord bots. Discord bots are automated programs that interact w
    - API Integrations: Integrate with external APIs to fetch data or perform actions (e.g., getting stock prices, translating text).
    - Custom Features: Develop unique features tailored to the specific needs of your server or community.
 
-## Currently working on Image Bots
+## Planning to work on Image Bots
 ### Introduction
 Image Bot is designed to enhance your Discord server by bringing advanced image processing and retrieval capabilities directly to your fingertips. Whether you're looking to fetch stunning images from the web or perform complex image manipulations, Image Bot has got you covered.
 
